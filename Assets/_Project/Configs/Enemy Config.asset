@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9962408067624a67b6c29d03ebef234a, type: 3}
+  m_Name: Enemy Config
+  m_EditorClassIdentifier: Assembly-CSharp::_Project.Scripts.Configs.EnemyConfig
+  <MaxHealth>k__BackingField: 100
+  <MoveSpeed>k__BackingField: 3
+  <DamagePerSecond>k__BackingField: 5
+  <AttackRange>k__BackingField: 1.5
+  <SpawnOffset>k__BackingField: 2
+  <CollisionRadius>k__BackingField: 0.6
+  <CoinDropChance>k__BackingField: 0.5
+  <Prefab>k__BackingField: {fileID: 3970437285437210679, guid: 52e5a93b51b33674ea566186437e0882, type: 3}

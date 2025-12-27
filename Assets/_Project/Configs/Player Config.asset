@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6d2494ca9d241c498d077df945f90af, type: 3}
+  m_Name: Player Config
+  m_EditorClassIdentifier: Assembly-CSharp::_Project.Scripts.Configs.PlayerConfig
+  <MoveSpeed>k__BackingField: 7
+  <MaxHealth>k__BackingField: 100
+  <ShootInterval>k__BackingField: 1
+  <ProjectileDamage>k__BackingField: 25
+  <ProjectileSpeed>k__BackingField: 10
+  <ProjectileRadius>k__BackingField: 0.2
+  <CollisionRadius>k__BackingField: 0.5
+  <ProjectileLifetime>k__BackingField: 5
+  <Prefab>k__BackingField: {fileID: 950482558565977231, guid: 1dd98a6792f6f8a4f9c28a96404cc629, type: 3}
